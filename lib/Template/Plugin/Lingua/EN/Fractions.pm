@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 use vars qw($VERSION);
-$VERSION = 0.01;
+$VERSION = 0.02;
 
 use base qw(Template::Plugin);
 use Template::Plugin;
@@ -80,7 +80,7 @@ recently taken over from Andrew Ford.
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright (C) 2014      Barbie for Miss Barbell Productions.
+Copyright (C) 2014-2015 Barbie for Miss Barbell Productions.
 
 This distribution is free software; you can redistribute it and/or
 modify it under the Artistic Licence v2.

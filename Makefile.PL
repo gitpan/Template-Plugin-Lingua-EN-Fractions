@@ -8,7 +8,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     AUTHOR              => 'Barbie <barbie@cpan.org>',
-    NAME                => 'Template-Plugin-Lingua::EN::Fractions',
+    NAME                => 'Template::Plugin::Lingua::EN::Fractions',
     VERSION_FROM        => 'lib/Template/Plugin/Lingua/EN/Fractions.pm',
     ABSTRACT            => 'TT2 interface to Lingua::EN::Fractions module',
     NO_META             => 1,
